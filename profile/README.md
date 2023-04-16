@@ -1,4 +1,4 @@
-<div align="center"><img src="https://avatars.githubusercontent.com/u/130595353?s=64&v=4"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/capableai/.github/main/profile/team.png"></div>
 
 ## Hi there 👋
 
